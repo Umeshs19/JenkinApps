@@ -10,7 +10,7 @@ namespace Calculator
         }
         public int Multiply(int x,int y)
         {
-            return x + y;
+            return x*y;
         }
     }
 }
